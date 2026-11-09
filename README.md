@@ -2,8 +2,9 @@
 Some basic code for BeetleBot!
 
 ### Attention
-The codes of IR control in this repo, just for the controller of Keyes's suit📦.  
-If you have the diffrent controller, please refer to your own remote control🙇‍♂️.  
+The codes of IR control in this repo, just for the controller of Keyes's suit.  
+If you have the diffrent controller, please refer to your own remote control.  
+Just for ESP32 now sorry...
 
 ### Links🔗
 [Code sheet of IR key📱](IRCODE.md)
