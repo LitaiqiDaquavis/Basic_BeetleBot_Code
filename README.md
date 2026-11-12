@@ -7,7 +7,7 @@ If you have the diffrent controller, please refer to your own remote control.
 Just for ESP32 now sorry...
 
 ### Links🔗
-[Code sheet of IR key📱](IRCODE.md)
+[Code sheet of IR key📱](Code of IR control key.md)
 
 ### IR Control📱
 You can use your IR control to control your Beetle Bot.
